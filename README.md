@@ -1,4 +1,4 @@
-# Skillset Project
+# Scorecard Extension for GitHub Copilot
 
 This project is designed to interact with the Security Scorecards API to fetch and display security scorecard data for specified repositories.
 
