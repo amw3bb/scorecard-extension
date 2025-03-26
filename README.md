@@ -16,7 +16,7 @@ To set up the project, clone the repository and install the dependencies:
 
 ```bash
 git clone <repository-url>
-cd skillset-project
+cd scorecard-extension
 npm install
 ```
 
